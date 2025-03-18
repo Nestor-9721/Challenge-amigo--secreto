@@ -1,4 +1,5 @@
-🎁 Juego de Amigo Secreto
+🎁 Challenge del amigo secreto
+
 Bienvenido/a al Juego de Amigo Secreto, una aplicación interactiva que permite ingresar nombres y hacer un sorteo para elegir al amigo secreto de forma aleatoria. 
 
 🚀 Funcionalidades
